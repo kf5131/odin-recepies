@@ -1,1 +1,2 @@
 # odin-recepies
+This assignment aims to show fundamental HTML skills. I.e. putting up headings and paragraphs of text. In addition emphasizing and emboldening text objects. As well as importing images and creating links (both relative and absolute). The website will present as "web brutalist" which looks kinda cool IMHO.
